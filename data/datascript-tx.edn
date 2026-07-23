@@ -1,0 +1,33 @@
+;; data/datascript-tx.edn — DataScript tx-data derived from src/statute/facts.cljc
+;; `statute.facts/catalog` (ADR-2607141700 Wave 0). Same shape as sibling files.
+
+[#:statute{:id "khm.law-on-investment-2021"
+           :title "Law on Investment of the Kingdom of Cambodia"
+           :jurisdiction "KHM"
+           :kind :law
+           :law-number "Unofficial translation, CDC (Royal Kram number not shown in the fetched English text -- see facts.cljc docstring honest gap)"
+           :url "https://cdc.gov.kh/wp-content/uploads/2022/04/LOI_English-Updated-13Dec21.pdf"
+           :url-provenance :cdc-official-translation
+           :enacted-date "2021-10-15"
+           :retrieved-at "2026-07-23"
+           :topic [:foreign-investment :corporate-governance :tax-incentives]}
+ #:statute{:id "khm.law-on-commercial-enterprises-2005"
+           :title "Law on Commercial Enterprises"
+           :jurisdiction "KHM"
+           :kind :law
+           :law-number "Adopted by the National Assembly, 2nd Plenary Session of the Third Legislature (own text, no separate promulgation number extracted)"
+           :url "https://cdc.gov.kh/wp-content/uploads/2022/04/Law-on-Commercial-Enterprises_English_050517.pdf"
+           :url-provenance :cdc-official-translation
+           :enacted-date "2005-05-17"
+           :retrieved-at "2026-07-23"
+           :topic [:corporate-governance :incorporation]}
+ #:statute{:id "khm.law-on-public-procurement-2023"
+           :title "Law on Public Procurement"
+           :jurisdiction "KHM"
+           :kind :law
+           :law-number "Royal Kram No. NS/RKM/0523/005"
+           :url "http://web.archive.org/web/20250320023351/https://gdpp.gov.kh/download/laws"
+           :url-provenance :gdpp-official-listing-via-wayback-machine
+           :enacted-date "2023-05-16"
+           :retrieved-at "2026-07-23"
+           :topic [:public-procurement]}]
