@@ -6,10 +6,13 @@
    (route to `cloud-itonami-M6910` or local counsel first if not).
 2. Register the client's intake: business type, target public function,
    prior filing history in Cambodia if any.
-3. Run the advisor in read-only mode against the MEF public-procurement
-   bid notices.
+3. Run the advisor in read-only mode against the QIP registration
+   process (CDC/MPIS One-stop Service, qip.cdc.gov.kh) and, for public
+   contracts, the GDPP (General Department of Public Procurement)
+   bidder/contractor registration.
 4. Compare the checklist against the client's current documentation
-   (MoC business registration, CamDX GDT/MLVT integration status).
+   (MOC business registration, GDT taxpayer registration and Patent Tax
+   certificate).
 5. Enable gated filing-draft assistance once the Market-Entry Compliance
    Governor contract is trusted; actual submission always requires human
    sign-off.

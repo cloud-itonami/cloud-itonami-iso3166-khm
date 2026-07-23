@@ -21,17 +21,37 @@
 
 ## Offer
 
-- registration walkthrough for public-procurement bid publication
-  managed by the Ministry of Economy and Finance (MEF), which has
-  published bid notices online since February 2011
-- business/tax registration checklist: online business registration
-  through the Ministry of Commerce (MoC) portal
-  (businessregistration.moc.gov.kh), integrated via CamDX (Cambodia
-  Data Exchange, launched 2020) with the General Department of Taxation
-  (GDT) and the Ministry of Labour and Vocational Training (MLVT) as a
-  single registration window
-- local-content / preferential-procurement navigation: Cambodian
-  public-procurement preference provisions on qualifying tenders
+- Qualified Investment Project (QIP) registration walkthrough via the
+  Council for the Development of Cambodia (CDC) or the
+  Municipal-Provincial Investment Sub-Committee (MPIS) One-stop Service
+  (online at qip.cdc.gov.kh), under the Law on Investment of the
+  Kingdom of Cambodia (promulgated 15 October 2021) -- Registration
+  Certificate issuance within 20 working days per CDC's own published
+  process
+- QIP incentive-election advisory: helping the client choose and
+  correctly document ONE of the Law on Investment's two mutually
+  exclusive Art.26 basic-incentive options (Option 1 income-tax
+  exemption / Option 2 special depreciation + up to 200% expense
+  deduction) at the correct Investment Activity Category Group-tier
+  duration (Group 1 = 9 years, Group 2 = 6 years, Group 3 = 3 years,
+  per CDC's own Incentives-and-Schemes page) -- this is exactly what
+  this repo's Market-Entry Compliance Governor flagship check
+  (`qip-incentive-election-mismatch`) independently verifies before any
+  filing is drafted or submitted
+- registration walkthrough for public-procurement bidder/contractor
+  registration under the Law on Public Procurement (Royal Kram
+  No. NS/RKM/0523/005, 16 May 2023), administered by the General
+  Department of Public Procurement (GDPP), Ministry of Economy and
+  Finance
+- business/tax registration checklist: Ministry of Commerce (MOC)
+  business registration (businessregistration.moc.gov.kh) + General
+  Department of Taxation (GDT, tax.gov.kh) taxpayer registration and
+  Patent Tax certificate (Cambodia's de-facto annual
+  business-operation tax registration, per GDT's own Tax Types
+  listing) -- HONEST GAP: this session could not independently verify
+  a specific integration mechanism (e.g. a CamDX-style single window)
+  between MOC and GDT; that earlier claim in this document has been
+  removed rather than repeated unverified
 - ongoing regulatory-change monitoring subscription
 - compliance-audit export package for the client's own records
 
