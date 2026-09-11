@@ -108,7 +108,7 @@ trail, including facts this iteration could NOT verify):
   threshold / registry-boolean / 3-tier value classification / bid-price
   adjustment / sector-exclusion allow-list / ordered-tier preference /
   workforce-composition / authority-jurisdiction-routing checks.
-- `src/statute/facts.cljc` -- general-law catalog: the Law on Investment
+- `src/statute/facts.cljk` -- general-law catalog: the Law on Investment
   itself, the Law on Commercial Enterprises (adopted by the National
   Assembly 17 May 2005, fetched as a real 63-page PDF from `cdc.gov.kh`
   and read directly), and the Law on Public Procurement (Royal Kram
@@ -140,7 +140,7 @@ Alongside the market-entry / statute catalogs, this repo carries a
 `com-junkawasaki/root`) — national dishes, protected products, beverages,
 crafts, festivals and heritage sites for Cambodia:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.cljk` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring `statute.facts`).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from
