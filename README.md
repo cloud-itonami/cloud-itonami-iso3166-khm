@@ -5,7 +5,7 @@ Open ISO 3166 Blueprint for **KHM**: Cambodia.
 **`:implemented`** for **KHM**. Flagship `qip-incentive-election-mismatch`, tax `patent-tax-unverified`.
 
 ```
-clojure -M:dev:test
+kbb -M:dev:test
 ```
 
 This repository designs a forkable OSS business for an independent
